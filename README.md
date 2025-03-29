@@ -13,6 +13,7 @@ A **Brainfuck** to **x86-64 GNU AT&T Assembly** compiler written in **C++17**. T
 
 ### Prerequisites
 - **Linux/macOS (Intel only)**
+> - **Node:** Users with Apple Silicon Macs need Rosetta to run the code. One needs to type `arch -x86_64 zsh` in Terminal and the rest is the same
 - **GCC or Clang with C++17 support**
 - **Make**
 
