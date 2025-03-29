@@ -1,7 +1,3 @@
-
-md
-Copy
-Edit
 # Brainfuck Compiler 🚀
 
 A **Brainfuck** to **x86-64 GNU AT&T Assembly** compiler written in **C++17**. This compiler translates Brainfuck code into assembly and generates an executable file. It runs on **Linux** and **macOS (Intel chips only)**.
