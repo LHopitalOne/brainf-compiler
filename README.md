@@ -56,8 +56,8 @@ This repository includes three Brainfuck programs in the `examples/` folder:
 | Program | Description | Credits |
 |---------|------------|---------|
 | `mandelbrot.b` | Mandelbrot set generator | [copy.sh](https://copy.sh/brainfuck/prog/mandelbrot.b) |
-| `triangle.bf` | Sierpinski triangle drawing | [copy.sh](https://copy.sh/brainfuck/prog/triangle.bf) |
-| `tic_tac_toe.bf` | Playable Tic-Tac-Toe game | [mitxela](https://github.com/mitxela/bf-tic-tac-toe) |
+| `triangle.b` | Sierpinski triangle drawing | [copy.sh](https://copy.sh/brainfuck/prog/triangle.bf) |
+| `tic_tac_toe.b` | Playable Tic-Tac-Toe game | [mitxela](https://github.com/mitxela/bf-tic-tac-toe) |
 
 These are **not** original works of this repository's creator.
 
